@@ -42,7 +42,7 @@ export function Hero() {
             </a>
           </div>
           <div className="mt-6 flex items-center gap-4 text-white/80">
-            <a href="https://github.com/" target="_blank" rel="noreferrer" className="hover:text-white"><Github /></a>
+            <a href="https://github.com/mohanadam2233" target="_blank" rel="noreferrer" className="hover:text-white"><Github /></a>
             <a href="https://linkedin.com/" target="_blank" rel="noreferrer" className="hover:text-white"><Linkedin /></a>
             <a href="mailto:me@example.com" className="hover:text-white"><Mail /></a>
             <a href="https://yourdomain.com" target="_blank" rel="noreferrer" className="hover:text-white"><Globe /></a>
