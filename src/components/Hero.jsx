@@ -59,7 +59,7 @@ export function Hero() {
           <div className="relative">
             <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-indigo-500 to-cyan-500 blur opacity-60" />
             <img
-              src="https://images.unsplash.com/photo-1502685104226-ee32379fefbe?q=80&w=800&auto=format&fit=crop" 
+              src="https://unsplash.com/photos/close-up-portrait-of-smiling-handsome-man-in-round-glasses-and-blue-shirt-isolated-on-gray-textured-wall-EckYAt589SY" 
               alt="Profile"
               className="relative rounded-full w-48 h-48 md:w-64 md:h-64 object-cover border-4 border-white/20 shadow-2xl"
               loading="lazy"
