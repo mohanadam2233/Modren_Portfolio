@@ -82,7 +82,7 @@ export function Contact() {
           </p>
           <ul className="space-y-2 text-white/80 text-sm">
             <li className="flex items-center gap-2"><Mail size={16}/> me@example.com</li>
-            <li className="flex items-center gap-2"><Github size={16}/> github.com/yourhandle</li>
+            <li className="flex items-center gap-2"><Github size={16}/>https://github.com/mohanadam2233</li>
             <li className="flex items-center gap-2"><Linkedin size={16}/> linkedin.com/in/yourhandle</li>
           </ul>
         </motion.div>
